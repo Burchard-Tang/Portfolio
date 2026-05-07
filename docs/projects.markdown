@@ -32,23 +32,23 @@ permalink: /projects/
     Models of components based on CANDU-6 reactors to eventually form a full assembly of the calandria, fuel tubes passing through it, and end fittings of the fuel tubes. Driven by a curiosity about nuclear reactors, by modelling one, I hope to better appreciate all the engineering that contributes to making them function, function efficiently, and function safely.</p>
     <div class = "slideshow-container">
         <div class = "slide0">
-            <img src="/burchardtang.github.io/images/Projects/CANDU/FuelBundleSide.png" alt="Side view of a fuel bundle modeled in Solidworks" onclick="shiftSlide(1,0)">
+            <img src="/Portfolio/images/Projects/CANDU/FuelBundleSide.png" alt="Side view of a fuel bundle modeled in Solidworks" onclick="shiftSlide(1,0)">
             <p class="project-img-caption">Side view of a 37 element fuel bundle, measurements gathered and estimated from the <a href="https://canteach.candu.org/Content%20Library/19720114.pdf#search=19720114" target="_blank">AECL Lectures on Nuclear Power Symposium</a> provided on the <a href="https://canteach.candu.org/Pages/Home.aspx" target="_blank">CANTEACH</a> site.</p>
         </div>
         <div class = "slide0">
-            <img src="/burchardtang.github.io/images/Projects/CANDU/FuelBundleFront.png" alt="Front view of a fuel bundle modeled in Solidworks" onclick="shiftSlide(1,0)">
+            <img src="/Portfolio/images/Projects/CANDU/FuelBundleFront.png" alt="Front view of a fuel bundle modeled in Solidworks" onclick="shiftSlide(1,0)">
             <p class="project-img-caption">Front view of a 37 element fuel bundle, measurements gathered and estimated from the <a href="https://canteach.candu.org/Content%20Library/19720114.pdf#search=19720114" target="_blank">AECL Lectures on Nuclear Power Symposium</a> provided on the <a href="https://canteach.candu.org/Pages/Home.aspx" target="_blank">CANTEACH</a> site.</p>
         </div>
         <div class = "slide0">
-            <img src="/burchardtang.github.io/images/Projects/CANDU/GarterSpring.png" alt="A garter spring modeled in Solidworks" onclick="shiftSlide(1,0)">
+            <img src="/Portfolio/images/Projects/CANDU/GarterSpring.png" alt="A garter spring modeled in Solidworks" onclick="shiftSlide(1,0)">
             <p class="project-img-caption">Model of the garter spring separating the pressure and calandria tube. Measurements gathered and estimated from <a href="https://canteach.candu.org/Content%20Library/20044210.pdf?" target="_blank">CANDU Overview, Course 3.2</a> provided on the <a href="https://canteach.candu.org/Pages/Home.aspx" target="_blank">CANTEACH</a> site.</p>
         </div>
         <div class = "slide0">
-            <img src="/burchardtang.github.io/images/Projects/CANDU/CalandriaTube.png" alt="Calandria Tube" onclick="shiftSlide(1,0)">
+            <img src="/Portfolio/images/Projects/CANDU/CalandriaTube.png" alt="Calandria Tube" onclick="shiftSlide(1,0)">
             <p class="project-img-caption">Assembly of a calandria tube, showing the function of the garter spring to separate the inner and outer tubes. Measurements gathered and estimated from <a href="https://canteach.candu.org/Content%20Library/20044210.pdf?" target="_blank">CANDU Overview, Course 3.2</a> provided on the <a href="https://canteach.candu.org/Pages/Home.aspx" target="_blank">CANTEACH</a> site.</p>
         </div>
         <div class = "slide0">
-            <img src="/burchardtang.github.io/images/Projects/CANDU/AnnulusBellow.png" alt="Annulus Bellow" onclick="shiftSlide(1,0)">
+            <img src="/Portfolio/images/Projects/CANDU/AnnulusBellow.png" alt="Annulus Bellow" onclick="shiftSlide(1,0)">
             <p class="project-img-caption">Model of an annulus bellow, moderating the pressure of the annulus gas. Measurements estimated from <a href="https://thorburnflex.com/pdf/Metallic%20Bellows-2014.pdf" target="_blank">Thorburn Flex | Serving The Nuclear Industry</a></p>
         </div>
     </div>
@@ -68,7 +68,7 @@ permalink: /projects/
     <hr class="solid">
     <p class="project-description">
 A map combining four green infrastructure datasets in the Toronto region from Toronto's OpenData portal. The purpose of the map is to analyze progress by the government towards green initiatives and compare areas of high and low progress. Renewable energy installations (2024) and pollination gardens (2025) which are symbolized by the size of the installation/garden for the marker, green street implementations (2025) (such as bioswales and special drainage into green areas), as well as government-maintained electric vehicle chargers (2025) sized by the number of chargers. The map is divided into the Toronto neighbourhoods where the implementations are weighted and summed to produce the intensity of the green areas and show the green development of the area by the government.</p>
-    <img class="project-img" src="/burchardtang.github.io/images/Projects/TorontoGreenMap.png" alt="Map of Toronto labeled with green infrastructure">
+    <img class="project-img" src="/Portfolio/images/Projects/TorontoGreenMap.png" alt="Map of Toronto labeled with green infrastructure">
     <p class="project-img-caption">Map of Toronto labeled with green infrastructure made using QGIS.</p>
 </div>
 
@@ -79,9 +79,9 @@ A map combining four green infrastructure datasets in the Toronto region from To
     <hr class="solid">
     <p class="project-description">
 A 3D visualization of the time-independent Schrödinger equation solutions for electron orbitals using GNU Octave. By plotting probability clouds with scatter3, the project demonstrates how different quantum numbers shape electron orbitals. To build this, I read Jeffery R. Chasnov's lecture notes on differential equations available online, which include a section on the Schrödinger wave equation. This project enhanced my skills in mathematical modeling, numerical methods, and scientific visualization, while also strengthening my intuition for the physics behind quantum orbitals.</p>
-    <img class="project-img" src="/burchardtang.github.io/images/Projects/Orbital322.png" alt="An image from the octave graphing of the d1 orbital">
+    <img class="project-img" src="/Portfolio/images/Projects/Orbital322.png" alt="An image from the octave graphing of the d1 orbital">
     <p class="project-img-caption">Visualization of the <em>d₁</em> orbital as a 3D scatter plot.</p>
-    <img class="project-img" src="/burchardtang.github.io/images/Projects/Orbital320.png" alt="The graphing of a d0 orbital">
+    <img class="project-img" src="/Portfolio/images/Projects/Orbital320.png" alt="The graphing of a d0 orbital">
     <p class="project-img-caption">Visualization of the <em>d₀</em> orbital distribution.</p>
 </div>
 
@@ -97,8 +97,8 @@ A 3D visualization of the time-independent Schrödinger equation solutions for e
         Built in C# with MonoGame, the project demonstrates object-oriented programming principles, including inheritance and polymorphism to create different enemy and projectile types. 
         Data structures such as linked lists, a quad-tree, sorting, and searching algorithms were implemented to efficiently manage hundreds of enemies with pathing and projectiles. Collision of projectiles with enemies and enemies with enemies were handled by building a quad-tree. Recursion was used to generate new winding caves and forest maps in each playthrough for unique experiences.
     </p>
-    <img class="project-img" src="/burchardtang.github.io/images/Projects/TypeCasting.png" alt="Gameplay screenshot of Type-Casting, a bullet hell survival game">
-    <img class="project-img" src="/burchardtang.github.io/images/Projects/TypeCastingClip1.gif" alt="Gameplay screenshot of Type-Casting, a bullet hell survival game">
+    <img class="project-img" src="/Portfolio/images/Projects/TypeCasting.png" alt="Gameplay screenshot of Type-Casting, a bullet hell survival game">
+    <img class="project-img" src="/Portfolio/images/Projects/TypeCastingClip1.gif" alt="Gameplay screenshot of Type-Casting, a bullet hell survival game">
     <p class="project-img-caption">Gameplay of <em>Type-Casting</em>, featuring typed spells and enemy combat.</p>
 </div>
 
@@ -123,7 +123,7 @@ A 3D visualization of the time-independent Schrödinger equation solutions for e
             <p>
             A desmos that plots a grid of vectors to explore the development of systems with different functions of their change. Plotted currently is the vector space created by a pendulum.
             </p>
-            <img class="project-img" src="/burchardtang.github.io/images/Projects/Desmos/VectorSpace.png" alt="Vector Space Desmos Plot" onclick="shiftSlide(1,1)">
+            <img class="project-img" src="/Portfolio/images/Projects/Desmos/VectorSpace.png" alt="Vector Space Desmos Plot" onclick="shiftSlide(1,1)">
         </div>
         <div class = "slide1">
             <p class="project-subheader"><a href="https://www.desmos.com/calculator/tpzhddcu80">Should You Run in the Rain | 2025</a></p>
@@ -131,28 +131,28 @@ A 3D visualization of the time-independent Schrödinger equation solutions for e
             The question, 'Should you run in the rain?' came up in conversation which prompted this graph. This graph calculates the amount of rain a person (approximated as a rectangular prism) experiences by finding their cross-sectional area perpendicular to the rain's falling vector at different moving speeds. The area is multiplied by the flux of the rain and the distance divided by the speed. 
             My findings were that running is more likely to be worse if you are moving with the horzontal direction of the rain. In this case, at walking speed the rain falls closely parallel to your standing compared to hitting your front when running. 
             </p>
-            <img class="project-img" src="/burchardtang.github.io/images/Projects/Desmos/RunningInRain.png" alt="A 3D Desmos plot of a box experiencing rain" onclick="shiftSlide(1,1)">
+            <img class="project-img" src="/Portfolio/images/Projects/Desmos/RunningInRain.png" alt="A 3D Desmos plot of a box experiencing rain" onclick="shiftSlide(1,1)">
         </div>
         <div class = "slide1">
             <p class="project-subheader"><a href="https://www.desmos.com/calculator/i8wiubnz6w">Damped Harmonic Motion | 2025</a></p>
             <p>
             A desmos plot of a damped harmonic oscillator, its position-time solution, homogeneous solution, and particular solution. While reading about differential equations, this graph came about to visualize the similarities and differences between the homogeneous and particular solutions.
             </p>
-            <img class="project-img" src="/burchardtang.github.io/images/Projects/Desmos/DampedHarmonic.png" alt="A Desmos plot of a simple harmonic oscillator" onclick="shiftSlide(1,1)">
+            <img class="project-img" src="/Portfolio/images/Projects/Desmos/DampedHarmonic.png" alt="A Desmos plot of a simple harmonic oscillator" onclick="shiftSlide(1,1)">
         </div>
         <div class = "slide1">
             <p class="project-subheader"><a href="https://www.desmos.com/calculator/yvvkidm9vk">Separable Equations | 2025</a></p>
             <p>
             To solve a separable equation, the integral of both sides can be taken with initial conditions. To explore why this works, this graph visualizes my interpretaion of finding matching areas from small changes in x related to the changes in y. 
             </p>
-            <img class="project-img" src="/burchardtang.github.io/images/Projects/Desmos/SepEq.png" alt="A Desmos plot of separable equations" onclick="shiftSlide(1,1)" onclick="shiftSlide(1,1)">
+            <img class="project-img" src="/Portfolio/images/Projects/Desmos/SepEq.png" alt="A Desmos plot of separable equations" onclick="shiftSlide(1,1)" onclick="shiftSlide(1,1)">
         </div>
         <div class = "slide1">
             <p class="project-subheader"><a href="https://www.desmos.com/calculator/yvvkidm9vk">Special Relativity | 2024</a></p>
             <p>
             This graph shows a space-time graph, displaying time dilation and length contraction through the shifting of the axes.
             </p>
-            <img class="project-img" src="/burchardtang.github.io/images/Projects/Desmos/SpecRel.png" alt="A space-time graph" onclick="shiftSlide(1,1)">
+            <img class="project-img" src="/Portfolio/images/Projects/Desmos/SpecRel.png" alt="A space-time graph" onclick="shiftSlide(1,1)">
         </div>
         <div class = "slide1">
             <p class="project-subheader">Other Graphs</p>

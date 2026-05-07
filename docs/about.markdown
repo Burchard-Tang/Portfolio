@@ -20,7 +20,7 @@ I’m a first-year Environmental Engineering student at the University of Waterl
 </div>
 
 <div class="hobby-images">
-  <img src="/burchardtang.github.io/images/Embroidery.jpg" alt="Embroidery patches">
-  <img src="/burchardtang.github.io/images/Penguin.jpg" alt="Crocheted penguin">
-  <img src="/burchardtang.github.io/images/Tucan.jpg" alt="Crocheted toucan">
+  <img src="/Portfolio/images/Embroidery.jpg" alt="Embroidery patches">
+  <img src="/Portfolio/images/Penguin.jpg" alt="Crocheted penguin">
+  <img src="/Portfolio/images/Tucan.jpg" alt="Crocheted toucan">
 </div>
