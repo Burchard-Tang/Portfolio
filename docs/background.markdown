@@ -47,6 +47,16 @@ Motivated and adaptable student recognized among the top of the graduating class
 # Experience
 ---
 <div class="experience-entry">
+    <p class="role">AI Product Content Intern</p>
+    <p class="company">Pomegranete Technologies Inc. (Pepper)</p>
+    <div class="time-loc-row"><p>01/2026-04/2026</p><p>Toronto, ON</p></div>
+</div>
+- Applied fuzzy matching and image generation models to enrich catalog data, increasing enterprise client basket sizes by 2×.
+- Analyzed item category trends using Excel pivot tables, producing targeted reports that identified catalog gaps and increased image coverage from under 15% to 85%.
+- Managed 15+ concurrent customer accounts, organizing tasks in parallel and completing data enrichment requests within a 2-day turnaround.
+- Communicated key findings through clear, structured documentation, praised by senior team members for clarity and depth of explanations.
+
+<div class="experience-entry">
     <p class="role">Tech Tutor Volunteer</p>
     <p class="company">Vaughan Public Libraries</p>
     <div class="time-loc-row"><p>07/2023-02/2024</p><p>Vaughan, ON</p></div>
@@ -88,7 +98,7 @@ Motivated and adaptable student recognized among the top of the graduating class
 # Awards
 ---
 <div class="award-entry">
-    <p class="award-title">YRDSB Student Academic Accomplishment Award (Stephen Lewis Secondary School) | 2025</p>
+    <p class="award-title">YRDSB Student Academic Accomplishment Award (Stephen Lewis SS) | 2025</p>
     <p class="award-description">Presented to the two highest achievers of their graduating class.</p>
 </div>
 

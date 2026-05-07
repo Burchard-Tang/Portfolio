@@ -104,7 +104,7 @@ A 3D visualization of the time-independent Schrödinger equation solutions for e
 
 <div class="target-anchor" id="TED00"></div>
 <div class="project-card">
-    <p class="project-title">TED Talk–Style Assembly Organizer & Speaker</p>
+    <p class="project-title">Speaking Engagement Organizer & Speaker</p>
     <p class="project-date">January 2024</p>
     <hr class="solid">
     <p class="project-description">
@@ -192,10 +192,12 @@ A 3D visualization of the time-independent Schrödinger equation solutions for e
         if (open){
             bar.classList.remove("closed");
             btn.classList.remove("closed");
+            btn.textContent = "<";
         }
         else{
             bar.classList.add("closed");
             btn.classList.add("closed");
+            btn.textContent = ">";
         }
     }
 

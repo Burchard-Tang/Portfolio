@@ -14,7 +14,7 @@ I’m a first-year Environmental Engineering student at the University of Waterl
   <div class="hobby-text">
     <h2>Beyond Engineering</h2>
     <p>
-      Outside of engineering, I enjoy creative hobbies that keep me grounded and inspired. Cooking allows me to experiment and share experiences with others, while crocheting and embroidery give me the chance to create thoughtful, handmade pieces. These hobbies bring balance to my life, encouraging patience, creativity, and attention to detail, qualities I also carry into my engineering work.
+      Outside of engineering, I enjoy hobbies that feed my creativity and allow me to express myself. Cooking allows me to experiment and share experiences with others, while crocheting and embroidery give me the chance to create thoughtful, handmade pieces. These hobbies bring balance to my life, encouraging patience, creativity, and attention to detail, qualities I also carry into my engineering work.
     </p>
   </div>
 </div>
