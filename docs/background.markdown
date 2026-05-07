@@ -7,7 +7,6 @@ permalink: /background/
 <div class="bgpage-title">Burchard Tang</div>
 
 ---
-
 Motivated and adaptable student recognized among the top of the graduating class with a record of academic excellence. Experienced in peer mentorship and leadership, with practical skills in problem-solving and technical learning. Brings strong attention to detail and the ability to deliver high-quality results in fast-paced environments. Dedicated to continuous growth and contributing effectively to team success.
 
 # Skills
@@ -41,6 +40,8 @@ Motivated and adaptable student recognized among the top of the graduating class
     <p class="hardskill">QGIS</p>
     <p class="hardskill">Solidworks</p>
     <p class="hardskill">Autodesk Civil 3D</p>
+    <p class="hardskill">SQL</p>
+    <p class="hardskill">Redash</p>
 </div>
 
 # Experience
@@ -92,7 +93,7 @@ Motivated and adaptable student recognized among the top of the graduating class
 </div>
 
 <div class="award-entry">
-    <p class="award-title">Excellence in English Award (Stephen Lewis Secondary School) | 2025</p>
+    <p class="award-title">Excellence in English Award (Stephen Lewis SS) | 2025</p>
     <p class="award-description">Presented to the graduating student who has demonstrated exceptional achievement in the study of English language and literature. This student has consistently showcased outstanding analytical skills, creative writing talent, and a deep appreciation for the study of literary and media texts.</p>
 </div>
 
