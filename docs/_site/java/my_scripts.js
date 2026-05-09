@@ -1,3 +1,5 @@
+//image carousel code
+
 let slideIndex = [0,0];
 let slideBaseName = "slide";
 let slideBaseBarName = "slider-bar";
