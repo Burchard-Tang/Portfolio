@@ -10,7 +10,11 @@
 
 
 
-
+.page-content {
+    background-color: #f7fffcba;
+    max-width: 100%;
+    margin: 0 auto;
+}
 
 
 html {

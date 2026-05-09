@@ -52,6 +52,7 @@
     <div class="proj-sidebar" id="sideBar">
 <h1>2025</h1>
 <ul>
+<li><a href="#CRD05">Campus Residence Site Design (AutoCAD Civil 3D)</a></li>
 <li><a href="#MOD04">Modelling CANDU Reactor Parts (SolidWorks)</a></li>
 <li><a href="#GRE03">Green Infrastructure Map of Toronto (QGIS)</a></li>
 <li><a href="#QUA02">Quantum Orbital Visualization (Octave)</a></li>
@@ -59,7 +60,7 @@
 </ul>
 <h1>2024</h1>
 <ul>
-<li><a href="#TED00">TED Talk–Style Assembly Organizer &amp; Speaker</a></li>
+<li><a href="#TED00">Speaking Engagement Organizer &amp; Speaker</a></li>
 </ul>
 <h1>Extra</h1>
 <ul>
@@ -68,6 +69,17 @@
 </div>
 
 <p><button class="proj-sidebar-btn" id="sideBarBtn" type="button" onclick="toggleSideBar()">&gt;</button></p>
+
+<div class="target-anchor" id="CRD05"></div>
+<div class="project-card">
+    <p class="project-title">Campus Residence Site Design (AutoCAD Civil 3D)</p>
+    <p class="project-date">November - December 2025</p>
+    <hr class="solid" />
+    <p class="project-description">
+A conceptual campus residence site plan developed from field survey data collected using an auto level and total station. Completed collaboratively as part of a team, the project involved integrating surveyed point elevations into AutoCAD Civil 3D to produce grading and elevation models, building footprint layouts, parking configurations, and site infill plans. The design was developed in accordance with City of Waterloo zoning by-laws and accessibility and drainage requirements, while also incorporating sustainable stormwater management considerations through the sizing and placement of bioretention features.</p>
+    <img class="project-img" src="/Portfolio/images/Projects/MHRProjectPoster.png" alt="Poster of the proposed residence's features" />
+    <p class="project-img-caption">Poster displaying the proposed residence's features.</p>
+</div>
 
 <div class="target-anchor" id="MOD04"></div>
 <div class="project-card">
@@ -158,12 +170,32 @@ A 3D visualization of the time-independent Schrödinger equation solutions for e
     </p>
 </div>
 
+<header class="post-header">
+    <hr style="border:1px solid #000000" />
+    <h1 class="page-title">Extra</h1>
+    <hr style="border:1px solid #000000" />
+  </header>
+
 <div class="target-anchor" id="DES000"></div>
 <div class="project-card">
     <p class="project-title">Favourite Desmos Selections</p>
     <hr class="solid" />
     <p>Whenever I learn a mathematical or physics concept, it often helps me to graph it in Desmos so I can visualize it better and develop an understanding. Quite often, I would become fixated on a problem and spend time at length on Desmos, so much so I would consider it a hobby. This behaviour has left me with numerous graphs, my favorites of the set below. </p>
     <div class="slideshow-container">
+        <div class="slide1">
+            <p class="project-subheader"><a href="https://www.desmos.com/calculator/zxdq6ekaub">Complex Confomal Maps | 2026</a></p>
+            <p>
+            A desmos that shows the transformation of the complex plane by a defined function.
+            </p>
+            <img class="project-img" src="/Portfolio/images/Projects/Desmos/ConformalMap.png" alt="Conformal Map Desmos Plot" onclick="shiftSlide(1,1)" />
+        </div>
+        <div class="slide1">
+            <p class="project-subheader"><a href="https://www.desmos.com/calculator/jufgwfstyo">Fourier Epicycle Tracer | 2025</a></p>
+            <p>
+            One of the more popular visual mathematical animations, a fourier epicycle is calculated to trace along plotted points and form an image.
+            </p>
+            <img class="project-img" src="/Portfolio/images/Projects/Desmos/FourierEpi.png" alt="Fourier Epicycle Desmos Plot" onclick="shiftSlide(1,1)" />
+        </div>
         <div class="slide1">
             <p class="project-subheader"><a href="https://www.desmos.com/calculator/tpzhddcu80">Vector Space | 2025</a></p>
             <p>
@@ -200,7 +232,7 @@ A 3D visualization of the time-independent Schrödinger equation solutions for e
             </p>
             <img class="project-img" src="/Portfolio/images/Projects/Desmos/SpecRel.png" alt="A space-time graph" onclick="shiftSlide(1,1)" />
         </div>
-        <div class="slide1">
+        <div class="slide1" onclick="shiftSlide(1,1)">
             <p class="project-subheader">Other Graphs</p>
             <ul class="desmos-list">
                 <li><a href="https://www.desmos.com/calculator/uaijvkihbv">Shear &amp; Moment Graphs (2025)</a></li>
@@ -216,12 +248,14 @@ A 3D visualization of the time-independent Schrödinger equation solutions for e
         </div>
     </div>
     <div class="full-slider-bar">
-        <a><span class="slider-bar1" style="width:14%;" onclick="setSlide(0,1)"></span></a>
-        <a><span class="slider-bar1" style="width:14%;" onclick="setSlide(1,1)"></span></a>
-        <a><span class="slider-bar1" style="width:14%;" onclick="setSlide(2,1)"></span></a>
-        <a><span class="slider-bar1" style="width:14%;" onclick="setSlide(3,1)"></span></a>
-        <a><span class="slider-bar1" style="width:14%;" onclick="setSlide(4,1)"></span></a>
-        <a><span class="slider-bar1" style="width:14%;" onclick="setSlide(5,1)"></span></a>
+        <a><span class="slider-bar1" style="width:10%;" onclick="setSlide(0,1)"></span></a>
+        <a><span class="slider-bar1" style="width:10%;" onclick="setSlide(1,1)"></span></a>
+        <a><span class="slider-bar1" style="width:10%;" onclick="setSlide(2,1)"></span></a>
+        <a><span class="slider-bar1" style="width:10%;" onclick="setSlide(3,1)"></span></a>
+        <a><span class="slider-bar1" style="width:10%;" onclick="setSlide(4,1)"></span></a>
+        <a><span class="slider-bar1" style="width:10%;" onclick="setSlide(5,1)"></span></a>
+        <a><span class="slider-bar1" style="width:10%;" onclick="setSlide(6,1)"></span></a>
+        <a><span class="slider-bar1" style="width:10%;" onclick="setSlide(7,1)"></span></a>
     </div>
 </div>
 
@@ -232,6 +266,12 @@ A 3D visualization of the time-independent Schrödinger equation solutions for e
     let open = true;
     let bar = document.getElementById("sideBar");
     let btn = document.getElementById("sideBarBtn");
+
+    document.querySelectorAll(".slide1 a").forEach(link => {
+    link.addEventListener("click", e => {
+        e.stopPropagation();
+    });
+    });
 
     function toggleSideBar(){
         open = !open;
