@@ -6,7 +6,7 @@ permalink: /about/
 <div class="about-me-section">
 <h2>Engineering Path</h2>
 <p>
-I’m a first-year Environmental Engineering student at the University of Waterloo with a strong interest in sustainable design and learning mathematics to satisfy my curiosity. My academic and project work reflect a commitment to applying engineering principles to real-world environmental challenges, with the goal of creating practical solutions that support both people and the planet.
+I’m a first-year Environmental Engineering student at the University of Waterloo with a strong interest in sustainable design and learning mathematics to satisfy my curiosity (currently reading about the Navier-Stokes equations). My academic and project work reflect a commitment to applying engineering principles to real-world environmental challenges, with the goal of creating practical solutions that support both people and the planet.
 </p>
 </div>
 

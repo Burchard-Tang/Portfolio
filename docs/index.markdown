@@ -10,7 +10,7 @@ layout: home
   <div style="margin: 32px;">
     <h1 class="home-header">Burchard Tang</h1>
     <h1 class="home-subheader">Environmental Engineering Student</h1>
-    <p class="home-intro">Motivated and adaptable student with a strong academic record and recognition among the top of the graduating class. Experienced in mentorship, leadership, and problem-solving, with a focus on continuous growth and delivering meaningful results in academic and professional settings.</p>
+    <p class="home-intro">Motivated and adaptable student with a strong academic record and love for the environment. Experienced in mentorship, leadership, and problem-solving, with a focus on continuous growth and delivering meaningful results in academic and professional settings.</p>
   </div>
 </div>
 

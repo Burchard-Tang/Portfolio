@@ -466,11 +466,16 @@ hr.solid {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    margin-bottom: 0.2em;
+    font-size: 0.8rem;
+    color: #777;
 }
 
 .time-loc-row p {
-    font-size: 0.8rem;
+    margin-bottom:0;
+}
+
+.gpa-row {
+    font-size: 0.6rem;
     color: #777;
 }
 

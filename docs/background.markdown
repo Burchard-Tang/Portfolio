@@ -7,7 +7,7 @@ permalink: /background/
 <div class="bgpage-title">Burchard Tang</div>
 
 ---
-Motivated and adaptable student recognized among the top of the graduating class with a record of academic excellence. Experienced in peer mentorship and leadership, with practical skills in problem-solving and technical learning. Brings strong attention to detail and the ability to deliver high-quality results in fast-paced environments. Dedicated to continuous growth and contributing effectively to team success.
+Motivated and adaptable student with a record of academic excellence. Experienced in peer mentorship and leadership, with practical skills in problem-solving and technical learning. Brings strong attention to detail and the ability to deliver high-quality results in fast-paced environments. Dedicated to continuous growth and contributing effectively to team success.
 
 # Skills
 ---
@@ -51,18 +51,20 @@ Motivated and adaptable student recognized among the top of the graduating class
     <p class="company">Pomegranete Technologies Inc. (Pepper)</p>
     <div class="time-loc-row"><p>01/2026-04/2026</p><p>Toronto, ON</p></div>
 </div>
-- Applied fuzzy matching and image generation models to enrich catalog data, increasing enterprise client basket sizes by 2×.
-- Analyzed item category trends using Excel pivot tables, producing targeted reports that identified catalog gaps and increased image coverage from under 15% to 85%.
-- Managed 15+ concurrent customer accounts, organizing tasks in parallel and completing data enrichment requests within a 2-day turnaround.
-- Communicated key findings through clear, structured documentation, praised by senior team members for clarity and depth of explanations.
+- Applied fuzzy matching and image generation models to enrich catalog data, doubling basket sizes for enterprise clients with $100+ million in annual revenue
+- Analyzed item category trends using Excel pivot tables, producing targeted reports that identified catalog gaps and increased image coverage from under 15% to 85%
+- Managed 15+ concurrent customer accounts, organizing tasks in parallel and completing data enrichment requests within a
+2-day turnaround
+- Communicated key findings through clear, structured documentation, praised by senior team members for clarity and depth of explanations
 
 <div class="experience-entry">
     <p class="role">Tech Tutor Volunteer</p>
     <p class="company">Vaughan Public Libraries</p>
     <div class="time-loc-row"><p>07/2023-02/2024</p><p>Vaughan, ON</p></div>
 </div>
-- Taught tutees how to effectively use smartphones and Microsoft Office tools, increasing their digital literacy and strengthening interpersonal communication skills.
-- Enhanced mentoring skills by delivering one-on-one tutoring sessions to community members of diverse age and technological experience.
+- Provided technical training on smartphone and Microsoft Office features, increasing community digital literacy, and strengthening interpersonal communication skills
+- Enhanced mentoring skills by delivering one-on-one tutoring sessions to community members of diverse age and technological experience
+
 
 
 <!--
@@ -81,10 +83,12 @@ Motivated and adaptable student recognized among the top of the graduating class
 <div class="education-entry">
     <p class="education-title">Bachelor of Applied Science in Environmental Engineering | University of Waterloo</p>
     <div class="time-loc-row"><p>09/2025 - Present</p><p>Waterloo, ON</p></div>
+    <div class="gpa-row"><p>Average: 95%</p></div>
 </div>
 <div class="education-entry">
     <p class="education-title">OSSD | Stephen Lewis Secondary School</p>
     <div class="time-loc-row"><p>09/2021 - 06/2025</p><p>Thornhill, ON</p></div>
+    <div class="gpa-row"><p>Average: 97%</p></div>
 </div>
 
 <!--
