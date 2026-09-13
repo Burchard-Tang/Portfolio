@@ -7,7 +7,7 @@ permalink: /background/
 <div class="bgpage-title">Burchard Tang</div>
 
 ---
-Motivated and adaptable student with a record of academic excellence. Experienced in peer mentorship and leadership, with practical skills in problem-solving and technical learning. Brings strong attention to detail and the ability to deliver high-quality results in fast-paced environments. Dedicated to continuous growth and contributing effectively to team success.
+Motivated and adaptable student with a strong academic record and love for the environment. Experienced in mentorship, leadership, and problem-solving, with a focus on continuous growth and delivering meaningful results in academic and professional settings.
 
 # Skills
 ---
@@ -41,7 +41,9 @@ Motivated and adaptable student with a record of academic excellence. Experience
     <p class="hardskill">Solidworks</p>
     <p class="hardskill">Autodesk Civil 3D</p>
     <p class="hardskill">SQL</p>
+    <p class="hardskill">MATLAB</p>
     <p class="hardskill">Redash</p>
+    <p class="hardskill">Godot</p>
 </div>
 
 # Experience
@@ -83,7 +85,7 @@ Motivated and adaptable student with a record of academic excellence. Experience
 <div class="education-entry">
     <p class="education-title">Bachelor of Applied Science in Environmental Engineering | University of Waterloo</p>
     <div class="time-loc-row"><p>09/2025 - Present</p><p>Waterloo, ON</p></div>
-    <div class="gpa-row"><p>Average: 95%</p></div>
+    <div class="gpa-row"><p>Average: 96%</p></div>
 </div>
 <div class="education-entry">
     <p class="education-title">OSSD | Stephen Lewis Secondary School</p>
